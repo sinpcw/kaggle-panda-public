@@ -1,0 +1,55 @@
+threshold  = 0.94
+total num  = 451
+karolinska = 30
+radboud    = 421
+------------------
+threshold  = 0.942
+total num  = 374
+karolinska = 21
+radboud    = 353
+------------------
+threshold  = 0.946
+total num  = 328
+karolinska = 16
+radboud    = 312
+------------------
+threshold  = 0.95
+total num  = 241
+karolinska = 9
+radboud    = 232
+------------------
+threshold  = 0.954
+total num  = 197
+karolinska = 6
+radboud    = 191
+------------------
+threshold  = 0.958
+total num  = 155
+karolinska = 4
+radboud    = 151
+------------------
+threshold  = 0.961
+total num  = 107
+karolinska = 2
+radboud    = 105
+------------------
+threshold  = 0.965
+total num  = 71
+karolinska = 2
+radboud    = 69
+------------------
+threshold  = 0.969
+total num  = 53
+karolinska = 2
+radboud    = 51
+------------------
+threshold  = 0.973
+total num  = 39
+karolinska = 2
+radboud    = 37
+------------------
+threshold  = 0.977
+total num  = 29
+karolinska = 2
+radboud    = 27
+------------------
